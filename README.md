@@ -1,4 +1,6 @@
-[![LinkedIn](/assets/img/linkedin.png "Go to my LinkedIn profile.")](https://www.linkedin.com/in/lukas-meyer-46435b26/) Find my CV and skillset on LinkedIn.
+<a href="https://www.linkedin.com/in/lukas-meyer-46435b26/">![LinkedIn](/assets/img/linkedin.png "Go to my LinkedIn profile.")</a>
+
+Find my CV, contact data, publications and skills on LinkedIn.
 
 ## Welcome to GitHub Pages
 
