@@ -1,4 +1,5 @@
-![LinkedIn](/assets/img/linkedin.png "Go to my LinkedIn profile.")
+[![LinkedIn](/assets/img/linkedin.png "Go to my LinkedIn profile.")](https://www.linkedin.com/in/lukas-meyer-46435b26/) Find my CV and skillset on LinkedIn.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ninuxch/ninuxch.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
