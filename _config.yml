@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: the home of ninuxch
-description: Find out where I am and what I do.
+description: Find out who I am and what I do.
 defaults:
   - scope:
       path: "asstes/img"
