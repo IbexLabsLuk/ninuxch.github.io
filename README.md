@@ -10,7 +10,7 @@ Find my CV, contact data, publications and skills on LinkedIn.
 
 On GitHub you can find some of my source codes and the projects I'm participating in.
 
-<a href="https://hub.docker.com/u/ninuxch">![Docker Hub](/assets/img/linkedin.png "Check out Docker Hub.")</a>
+<a href="https://hub.docker.com/u/ninuxch">![Docker Hub](/assets/img/docker.png "Check out Docker Hub.")</a>
 
 See my Docker images on Docker Hub.
 
